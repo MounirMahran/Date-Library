@@ -1,0 +1,16 @@
+﻿  Date Library.cpp
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(56,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(193,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(324,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(372,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  clsDate.cpp
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(56,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(193,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(324,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\source\repos\Date Library\Date Library\clsString.h(372,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Generating Code...
+  Date Library.vcxproj -> C:\Users\DELL\source\repos\Date Library\x64\Debug\Date Library.exe
